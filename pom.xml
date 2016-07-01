@@ -5,11 +5,11 @@
     <groupId>com.lianjia.iprd</groupId>
     <artifactId>commons-web-root</artifactId>
     <packaging>pom</packaging>
-    <version>1.5</version>
+    <version>1.6-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@git.lianjia.com:fengxiao/commons-web-parent.git</developerConnection>
-        <tag>commons-web-root-1.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
