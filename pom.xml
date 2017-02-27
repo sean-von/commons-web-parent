@@ -5,11 +5,11 @@
     <groupId>com.seanvon</groupId>
     <artifactId>commons-web-root</artifactId>
     <packaging>pom</packaging>
-    <version>y</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@github.com:sean-von/commons-web-parent.git</developerConnection>
-        <tag>y</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
