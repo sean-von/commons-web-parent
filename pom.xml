@@ -5,7 +5,7 @@
     <groupId>com.seanvon</groupId>
     <artifactId>commons-web-root</artifactId>
     <packaging>pom</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@github.com:sean-von/commons-web-parent.git</developerConnection>
@@ -247,12 +247,12 @@
     <distributionManagement>
         <repository>
             <id>releases</id>
-            <url>https://raw.githubusercontent.com/sean-von/maven-repo/master/repository/</url>
+            <url>https://raw.githubusercontent.com/sean-von/mvn-repo/master/repository/</url>
         </repository>
 
         <snapshotRepository>
             <id>snapshots</id>
-            <url>https://raw.githubusercontent.com/sean-von/maven-repo/master/repository/</url>
+            <url>https://raw.githubusercontent.com/sean-von/mvn-repo/master/repository/</url>
         </snapshotRepository>
     </distributionManagement>
 
